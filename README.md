@@ -11,6 +11,7 @@ This repository contains implementations and explanations of advanced algorithms
 ### 🤖 Machine Learning & Signal Processing
 - CNNs (Convolutional Neural Networks)
 - LSTMs (Long Short-Term Memory Networks)
+- Transformers (Attention Mechanism)
 - FFT (Fast Fourier Transform)
 - PCA & SVD
 - Twin-Tower Models
