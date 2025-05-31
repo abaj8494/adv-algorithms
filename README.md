@@ -20,10 +20,6 @@ This repository contains implementations and explanations of advanced algorithms
 - Matrix Factorization
 - Twin-Tower Neural Architecture
 
-### 🧠 Algorithmic Game Theory & Auctions
-- Second-Price (Vickrey) Auctions
-- Nash Equilibrium Algorithms
-
 ### 🗜️ Compression & Optimization
 - Huffman Encoding
 - Linear Programming (Simplex)
