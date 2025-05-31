@@ -16,6 +16,7 @@ This repository contains implementations and explanations of advanced algorithms
 - Twin-Tower Models
 
 ### 📊 Recommender Systems
+- Bayesian Rankings (could also be considered as an ensemble)
 - Collaborative Filtering
 - Matrix Factorization
 - Twin-Tower Neural Architecture
@@ -36,3 +37,15 @@ This repository contains implementations and explanations of advanced algorithms
 - Stacking / Blending (different to MoE (below), difference lies in how and when models are weighted or selected)
 - Mixture of Experts (soft and hard gating)
 
+### 🔐 Cryptography & Security
+- RSA (Rivest-Shamir-Adleman)
+- Diffie-Hellman Key Exchange
+- AES (Advanced Encryption Standard)
+- SHA (Secure Hash Algorithm)
+- Elliptic Curve Cryptography (ECC)
+
+### 🔤 String Algorithms
+- Knuth-Morris-Pratt (KMP)
+- Rabin-Karp
+- Boyer-Moore
+- Suffix Arrays / Suffix Trees
