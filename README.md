@@ -1,17 +1,35 @@
-# this repository is for Advanced Algorithms such as:
-1. PageRank
-2. Distributed Power Control
-3. FFT
-4. CNN's (Convolutional Neural Networks)
-5. LSTM's (Long Short Term Memory Networks)
-6. Huffman Encoding
-7. A* Search Algorithm
-8. Bloom Filters
-9. Min-Cut / Max-Flow (e.g., Ford-Fulkerson, Edmonds-Karp)
-10. SVD and PCA (for dimensionality reduction)
-11. Backpropagation in Neural Networks
-12. Monte Carlo Tree Search
-13. k-Means and Expectation-Maximization
-14. Linear Programming (e.g., Simplex Method)
-15. Game Theory Algorithms (e.g., Nash Equilibrium Computation)
+# Advanced Algorithms Repository
 
+This repository contains implementations and explanations of advanced algorithms across various domains:
+
+### 📈 Graph & Network Algorithms
+- PageRank
+- A* Search
+- Min-Cut / Max-Flow (Ford-Fulkerson, Edmonds-Karp)
+- Distributed Power Control
+
+### 🤖 Machine Learning & Signal Processing
+- CNNs (Convolutional Neural Networks)
+- LSTMs (Long Short-Term Memory Networks)
+- FFT (Fast Fourier Transform)
+- PCA & SVD
+- Twin-Tower Models
+
+### 📊 Recommender Systems
+- Collaborative Filtering
+- Matrix Factorization
+- Twin-Tower Neural Architecture
+
+### 🧠 Algorithmic Game Theory & Auctions
+- Second-Price (Vickrey) Auctions
+- Nash Equilibrium Algorithms
+
+### 🗜️ Compression & Optimization
+- Huffman Encoding
+- Linear Programming (Simplex)
+- Backpropagation
+- Expectation-Maximization
+
+### 🌲 Probabilistic Data Structures
+- Bloom Filters
+- Monte Carlo Tree Search
