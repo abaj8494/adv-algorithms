@@ -33,3 +33,10 @@ This repository contains implementations and explanations of advanced algorithms
 ### 🌲 Probabilistic Data Structures
 - Bloom Filters
 - Monte Carlo Tree Search
+
+### 🧠 Ensemble Architectures
+- Bagging (Random Forests)
+- Boosting (Gradient Boosting, AdaBoost)
+- Stacking / Blending (different to MoE (below), difference lies in how and when models are weighted or selected)
+- Mixture of Experts (soft and hard gating)
+
